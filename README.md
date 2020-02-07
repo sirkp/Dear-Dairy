@@ -1,5 +1,5 @@
-# Dear Diary
-A simple djnago app for writing diary
+# Dear Dairy
+A simple djnago app for writing dairy
 
 ### Snaps
 ![](snaps/add.png)
