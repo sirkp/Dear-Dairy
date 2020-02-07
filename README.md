@@ -3,4 +3,4 @@ A simple djnago app for writing dairy
 
 ### Snaps
 ![](snaps/add.png)
-![](snaps/homwe.png)
+![](snaps/homew.png)
